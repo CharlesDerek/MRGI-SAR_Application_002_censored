@@ -1,4 +1,5 @@
 ## MRGInnovations Software & Technology
+**Innovating Customized Applications, Software & Website Platforms.**
 ![alt text](https://raw.githubusercontent.com/CharlesDerek/MRGI-SAR_Application_002_censored/master/images/MRGI-Animated-single.gif)
 
 ------------------------------------
