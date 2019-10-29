@@ -15,6 +15,10 @@ By using this Software, you are agreeing that MRGI Software & Technology and Pro
 
 This software application i made to run execustions using the python interpreter (3.6+).
 
+
+------------------------------------
+
+
 The purpose of this program is to become aware of how to use the interpreter to create safe chron jobs by:
  - Use user input to enter dynamic actions (through functions).
  - Using just terminal and bash commands to execute upon python script(s) upon conditional logic.
