@@ -1,5 +1,5 @@
 ## MRGInnovations Software & Technology
-![alt text](https://raw.githubusercontent.com/CharlesDerek/MRGI-SAR_Application_002_censored/master/images/MRGI-GIF.gif)
+![alt text](https://raw.githubusercontent.com/CharlesDerek/MRGI-SAR_Application_002_censored/master/images/MRGI-Animated-single.gif)
 
 ------------------------------------
 **Programmer: Charles Derek**
